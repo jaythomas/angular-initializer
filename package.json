@@ -1,0 +1,9 @@
+{
+  "name": "angular-initializer",
+  "version": "1.0.0",
+  "description": "bring esmodules to a legacy angularjs app",
+  "main": "index.js",
+  "repository": "https://github.com/jaythomas/angular-initializer",
+  "author": "Jay Thomas <jay@gfax.ch>",
+  "license": "MIT"
+}
